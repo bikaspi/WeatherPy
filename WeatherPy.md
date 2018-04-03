@@ -1,4 +1,7 @@
-
+Analysis:
+1. Based on the latitude vs temperature graph, temperature tends to be higher near the equator and close to the equator
+2. It is very humid around the equator
+3. Windspeed is significantly lower around the equator.
 
 ```python
 import pandas as pd
